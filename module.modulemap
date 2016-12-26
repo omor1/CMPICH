@@ -1,4 +1,4 @@
-module CMPICH [system] {
+module CMPI [system] {
   header "/usr/local/include/mpi.h"
   link "mpi"
   export *
