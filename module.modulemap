@@ -1,0 +1,5 @@
+module CMPICH [system] {
+  header "/usr/local/include/mpi.h"
+  link "mpi"
+  export *
+}
